@@ -1,0 +1,18 @@
+
+> adulting-copilot@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1738ms
+ ○ Compiling / ...
+ ✓ Compiled / in 7.1s (550 modules)
+ ✓ Compiled in 689ms (259 modules)
+ GET / 200 in 7874ms
+ ○ Compiling /paywall ...
+ ✓ Compiled /paywall in 4.2s (520 modules)
+ GET /paywall 200 in 4368ms
+ ✓ Compiled /analyzer in 296ms (532 modules)
+ GET /analyzer 200 in 450ms
